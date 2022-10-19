@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class paycheck {
+public class Biweeklypaycheckcalulator {
 	public static void main(String[] args) {
         double hours_worked;
         double hours_worked2;
